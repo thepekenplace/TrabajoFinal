@@ -1,3 +1,3 @@
 curriculum vitae 
 
-https://github.com/thepekenplace/proyectoFinalProgramacion
+https://github.com/thepekenplace/TrabajoFinal
